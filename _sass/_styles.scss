@@ -1,0 +1,11 @@
+* {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+::selection {
+  background: $grey-light; /* Safari */
+}
+
+::-moz-selection {
+  background: $grey-light; /* Firefox */
+}

@@ -1,0 +1,11 @@
+a {
+  color: $black;
+  text-decoration:none;
+  font-weight: 600;
+
+  transition: 0.15s linear;
+
+  &:hover {
+      color: $watermelon;
+  }
+}
